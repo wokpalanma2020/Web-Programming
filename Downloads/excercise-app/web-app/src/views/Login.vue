@@ -68,10 +68,10 @@ export default {
   .is-danger {
     .fa-exclamation-triangle {
       display: inline;
-      color: red;
+      color: rgb(255, 230, 0);
     }
     .input {
-      border-color: red;
+      border-color: rgb(255, 230, 0);
     }
   }
 </style>
